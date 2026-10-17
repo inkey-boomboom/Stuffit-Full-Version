@@ -255,4 +255,4 @@ This repository serves as the official landing page for StuffIt. The software is
 **Get the most recent version of StuffIt today!**
 
 ---
-**Last updated:** 2026-10-16 23:17:58 UTC
+**Last updated:** 2026-10-17 03:29:17 UTC
